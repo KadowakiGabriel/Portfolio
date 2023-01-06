@@ -7,16 +7,17 @@
 # Gabriel Kadowaki
 <sub>Aspirante à Cientista de Dados</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Formado como piloto militar na Academia da Força Aérea, aprendi que a disciplina foi a maior virtude que pude internalizar. Atualmente estou dividindo meu tempo entre os estudos da área de Data Science e as atribuições como milico da Força Aérea Brasileira.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Pós-Graduado em Segurança da Informação e estudando pelo Data Science na Prática do Prof. Carlos Melo.
+A linguagem Python ficou a cargo da HashTag Treinamentos e pelo Prof. Guanabara do Curso em Vídeo.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+
+**Background em:** Python e SQL.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/gabriel-cirilo-55180724b/)
+
 
 
 ## Projetos:
