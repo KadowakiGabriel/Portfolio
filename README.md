@@ -23,8 +23,7 @@ A linguagem Python ficou a cargo da HashTag Treinamentos e pelo Prof. Guanabara 
 ## Projetos:
 Alguns projetos realizados ao longo da carreira em Data Science:
 
-* **Primeiro projeto:** https:
-
+* **Analisando os dados do Airbnb - Tóquio:** https://github.com/KadowakiGabriel/Portfolio/blob/main/KDW_Analisando_os_Dados_do_Airbnb_T%C3%B3quio.ipynb
 
 ---
 
