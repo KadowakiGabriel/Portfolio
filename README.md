@@ -25,6 +25,8 @@ Alguns projetos realizados ao longo da carreira em Data Science:
 
 * **Analisando os dados do Airbnb - Tóquio:** https://colab.research.google.com/drive/1s8ypT1gzg8QwuOfsamptUfkTH-011oH1?usp=sharing
 
+* **Análise da influência da vacina do COVID-19 no Brasil:** https://colab.research.google.com/drive/1YPtyCdAZmCJ2XqyrxciHILgGFsTIGLYA#scrollTo=AJEvMivn1RXW
+
 ---
 
 
